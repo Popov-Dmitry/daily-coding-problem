@@ -1,4 +1,4 @@
-package p1_100.p9___Airbnb;
+package p001_100.p009___Airbnb;
 
 public class Solution {
     public static void main(String[] args) {

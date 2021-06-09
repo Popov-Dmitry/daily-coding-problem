@@ -1,4 +1,4 @@
-package p1_100.p5___Jane_Street;
+package p001_100.p005___Jane_Street;
 
 public class Solution {
     public static void main(String[] args) {

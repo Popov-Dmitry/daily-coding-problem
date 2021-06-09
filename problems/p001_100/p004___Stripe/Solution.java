@@ -1,4 +1,4 @@
-package p1_100.p4___Stripe;
+package p001_100.p004___Stripe;
 
 import java.util.Set;
 import java.util.stream.Collectors;
